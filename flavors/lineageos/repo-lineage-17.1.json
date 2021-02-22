@@ -793,9 +793,9 @@
     "groups": [
       "pdk"
     ],
-    "rev": "c780a2e17197f70b4cde3aaac1021a78f48a516f",
+    "rev": "c7ee4db409335ac6227e6507869c0a1739ab281a",
     "revisionExpr": "master",
-    "sha256": "1c2wmv7xxjmikxhriwzab3rmqafdh6a2zbar3p3qwwpnfp70i9fv",
+    "sha256": "16h6cpsx8zzp2rqn6dh3pnqww0mny2vzj5vby1jzvy8kwqk0616l",
     "url": "https://github.com/LineageOS/android_external_chromium-webview"
   },
   "external/clang": {
